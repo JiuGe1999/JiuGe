@@ -1,0 +1,84 @@
+{
+  "extensions.ignoreRecommendations": false,
+  "team.showWelcomeMessage": false,
+  "git.enableSmartCommit": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "git.autofetch": true,
+  "react.beautify.onSave": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "[markdown]": {},
+  "eslint.enable": true,
+  "eslint.options": {
+    "extensions": [".js", ".jsx", ".vue"]
+  },
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
+  "vetur.validation.template": false,
+  "editor.tabSize": 2,
+  "jest.autoEnable": false,
+  // "jest.pathToConfig": "./.jest.js",
+  "terminal.integrated.rendererType": "dom",
+  "window.zoomLevel": 1,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "diffEditor.renderSideBySide": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Horizon Italic",
+  "gitlens.views.repositories.location": "gitlens",
+  "gitlens.views.fileHistory.location": "gitlens",
+  "gitlens.views.lineHistory.location": "gitlens",
+  "gitlens.views.compare.location": "gitlens",
+  "gitlens.views.search.location": "gitlens",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.explorerKind": "external",
+  "terminal.external.osxExec": "iTerm.app",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.ignoreMissingGitWarning": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "vetur.format.defaultFormatter.ts": "none",
+  "cSpell.userWords": ["dcloudio"],
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "prettier.arrowParens": "avoid",
+  "prettier.singleQuote": true,
+  "svg.preview.mode": "svg",
+  "cSpell.enableFiletypes": [
+    "diff",
+    "dockerfile",
+    "git-rebase",
+    "log",
+    "shellscript",
+    "svg",
+    "vue",
+    "vue-html",
+    "vue-postcss",
+    "xml"
+  ]
+}
