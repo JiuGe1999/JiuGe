@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fate
 
 ## Project setup
@@ -27,3 +28,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# personal_blog
+多余之事不做,必要之事从简.
+>>>>>>> ef07a13c9ee7dd7ad30befbf0b3025df1f517ddf
